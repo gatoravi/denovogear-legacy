@@ -45,7 +45,7 @@ using namespace RBD_LIBRARIES;
 #endif
 
 #ifndef VERSION
-#define VERSION "Denovogear1.0"
+#define VERSION "Denovogear0.5.4"
 #endif
 
 int RD_cutoff = 10; // cutoff for the read depth filter
