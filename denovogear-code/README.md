@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/gatoravi/DNG_dev.png?branch=master)](https://travis-ci.org/gatoravi/DNG_dev)
 
+
+**This repository is legacy, the current version of the denovogear repository is [here.](https://github.com/denovogear/denovogear)**
+
 Authors: Don Conrad, Avinash Ramu ( aramu at genetics dot wustl dot edu ) and Reed A. Cartwright.
 
 ## RELEASE NOTES
